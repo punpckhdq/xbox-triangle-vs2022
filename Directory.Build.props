@@ -1,0 +1,5 @@
+<Project>
+	<PropertyGroup>
+		<XDKDirectory>C:\xbox\</XDKDirectory>
+	</PropertyGroup>
+</Project>
